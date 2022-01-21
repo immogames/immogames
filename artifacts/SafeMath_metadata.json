@@ -1,0 +1,39 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Unsigned math operations with safety checks that revert on error",
+			"methods": {},
+			"title": "SafeMath"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"IMMOBSC.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"IMMOBSC.sol": {
+			"keccak256": "0xe3af1f988a7dbd40c51fd797f4f67353bddd553632892c829953436cea52cb58",
+			"urls": [
+				"bzz-raw://8e9bd89ae5f399eef0b6e132a455affa0e9c3d8998ee06c4d1ac13f541088577",
+				"dweb:/ipfs/QmXX7ggicjMDSAnJwqoNyTZ15EaHJm8GoXePs7zLV13wE4"
+			]
+		}
+	},
+	"version": 1
+}
